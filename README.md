@@ -1,3 +1,3 @@
 # Autocomplete
 
-Autocomplete дл€ стран. ћассив со странами записан в script.js
+Countries autocomplete. Array of countries is in script.js file.
